@@ -112,6 +112,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Tract](https://tract.health) - AI gut-health coach with food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets.
 - [Intermittent Fasting: IF24](https://apps.apple.com/us/app/intermittent-fasting-if24/id6738324344) - Free intermittent fasting timer with live metabolic phases; private and offline (iOS).
 - [MealThinker](https://mealthinker.com) - AI meal planner that suggests meals based on your preferences, dietary needs, and kitchen inventory, with automatic nutrition tracking (Web & iOS).
+- [CalDesk AI](https://caldeskai.com) - AI-powered calorie and macro tracker with photo-based food logging and a free TDEE/macro calculator (iOS).
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
